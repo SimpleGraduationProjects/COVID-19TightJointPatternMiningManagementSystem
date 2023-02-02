@@ -1,0 +1,2 @@
+# COVID-19TightJointPatternMiningManagementSystem
+新冠密接模式挖掘管理系统-毕业设计
